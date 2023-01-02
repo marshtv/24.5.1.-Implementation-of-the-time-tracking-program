@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "24_5_1__Implementation_of_the_time_tracking_program",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "24_5_1__Implementation_of_the_time_tracking_program::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-24_5_1__Implementation_of_the_time_tracking_program-Debug-cc36df8471c01bb6a2ce.json",
+					"name" : "24_5_1__Implementation_of_the_time_tracking_program",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/24 Working with Dates/24.5.1. Implementation of the time tracking program/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/24 Working with Dates/24.5.1. Implementation of the time tracking program"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
